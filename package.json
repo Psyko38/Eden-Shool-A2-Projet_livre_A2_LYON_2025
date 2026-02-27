@@ -1,0 +1,22 @@
+{
+  "name": "projet_livre_a2_lyon_2025",
+  "version": "1.0.0",
+  "description": "Assurez-vous d'avoir installé les éléments suivants :\r - PHP\r - MySQL\r - Apache\r - Composer",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdenSchoolFrance/Projet_livre_A2_LYON_2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdenSchoolFrance/Projet_livre_A2_LYON_2025/issues"
+  },
+  "homepage": "https://github.com/EdenSchoolFrance/Projet_livre_A2_LYON_2025#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}

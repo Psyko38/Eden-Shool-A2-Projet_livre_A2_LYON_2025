@@ -1,0 +1,17 @@
+./code/vendor/
+code/vendor/
+code/vendor
+./code/composer.lock
+/code/composer.lock
+code/composer.lock
+/vendor/
+vendor/
+/vendor
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
